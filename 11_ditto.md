@@ -1,6 +1,6 @@
 ---
 title: Mew - Magikarp
-permalink: /mew/magikarp.html
+permalink: /mew/ditto.html
 ---
 
 Ditto Tab

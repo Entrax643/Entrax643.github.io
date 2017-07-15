@@ -37,12 +37,14 @@ You Botanist gear set number.
 ### Fisher :
 You Fisher gear set number.
 			
-### Fisher :
+### Combatant :
 You Combatant gear set number.
 		
 ## Items Settings
-###Discover unknows:
-If Enable it'll override the rotation if there is an unknow material when you're gathering any node.		
+
+### Discover unknows:
+If Enable it'll override the rotation if there is an unknow material when you're gathering any node.
+	
 ### Food List :
 Wich Food you want to use, if you want to use one.
 			

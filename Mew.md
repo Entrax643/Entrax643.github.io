@@ -22,7 +22,7 @@ Mew is a plugin that allow you to set you gathering journey. There is a tab for 
 - [Ditto](/mew/ditto.html) : BTN/MIN red/yellow scrips items gathered from 24/7 nodes.
 
 About the logic behind, the highest (in the list) mode is the one with the most priority.
-#The priorities are :
+# The priorities are :
  * Timed :
    - Psyduck (Conditionnals Fish) with Keep Fishing on
    - Unown (Unspoiled)
