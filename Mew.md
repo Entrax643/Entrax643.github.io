@@ -11,8 +11,8 @@ Mew is a plugin that allow you to set you gathering journey. There is a tab for 
 
 - [General](/mew/general.html) : Miscellaneous settings.
 - [Shop](/mew/shop.html) : How to spend your scrips.
-- [Unown A](/mew/unown-a.html) : Unspoiled gathering settings.
-- [Unown B](/mew/unown-b.html) : Unspoiled items scehdule.
+- [Unown A](/mew/unown-a.html) : Unspoiled gathering logic settings.
+- [Unown B](/mew/unown-b.html) : Unspoiled items settings.
 - [Psyduck](/mew/psyduck.html) : Fish that require Weather and/or Time conditions.
 - [Chansey](/mew/chansey.html) : Housing.
 - [Snorlax](/mew/snorlax.html) : Regular/Normal nodes farm.
