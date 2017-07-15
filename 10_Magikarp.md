@@ -4,7 +4,7 @@ permalink: /mew/magikarp.html
 ---
 
 # Magikarp Tab
-## This tab contains the settings related to FSH Scrips farm.
+This tab contains the settings related to FSH Scrips farm.
 	
 ## Reset Hour
 Set when you want to reset the fish's fear. Make sure to not have an unspoiled right after.

@@ -40,8 +40,8 @@ If one of the options below are enable, it'll gather as regular item instead of 
 ## Act as a timed mode
 If enable, it'll take the priority over Snorlax and Slowpoke. It's mostly when you want to gather as regular items only.	
 	
-# Enable Onix
+## Enable Onix
 Enable/Disable the use of Onix mode.
 	
-# Reset Onix
+## Reset Onix
 Use this button to reset the Onix tab's settings.

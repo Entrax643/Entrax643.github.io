@@ -63,8 +63,8 @@ Set here your Stable Location.
 ### Set Button
 Easy way to set your Stable location, move your character to your Stable and clicking on this button will set your location as Stable location.
 		
-# Enable Chansey
+## Enable Chansey
 Enable/Disable the use of Chansey mode.
 	
-# Chansey Shop
+## Chansey Shop
 Use this button to reset the Chansey tab's settings.

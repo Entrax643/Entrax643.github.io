@@ -43,8 +43,8 @@ Set what type of cordial you want to use. Auto will can use all cordial dependin
 ## Cordial Time
 Set what logic you want to use for Cordial usage.
 	
-# Enable Snorlax
+## Enable Snorlax
 Enable/Disable the use of Snorlax mode.
 	
-# Reset Snorlax
+## Reset Snorlax
 Use this button to reset the Snorlax tab's settings.
