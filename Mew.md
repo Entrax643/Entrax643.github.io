@@ -3,7 +3,7 @@ title: Mew
 permalink: mew.html
 ---
 
-# Mew
+# Mew 2.3.2
 
 Mew is a plugin that allow you to set you gathering journey. There is a tab for each mode/feature : 
 
