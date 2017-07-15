@@ -3,7 +3,7 @@ title: Mew - Unown A
 permalink: /mew/unown-a.html
 ---
 
-# Unown Tab
+# Unown
 This tab contains the settings related to Unspoiled logic.
 
 

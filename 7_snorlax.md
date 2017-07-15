@@ -3,7 +3,7 @@ title: Mew - Snorlax
 permalink: /mew/snorlax.html
 ---
 
-# Snorlax Tab
+# Snorlax
 This tab contains the settings related to regular items.
 
 ## Items Search Button

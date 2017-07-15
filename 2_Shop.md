@@ -3,7 +3,7 @@ title: Mew - Shop
 permalink: /mew/shop.html
 ---
 
-#Shop Tab
+# Shop
 This tab contains the settings related to scrips usage.
 
 ## Red Scrips search field :

@@ -3,7 +3,7 @@ title: Mew - Chansey
 permalink: /mew/chansey.html
 ---
 
-# Chansey Tab
+# Chansey
 This tab contains the settings related to housing management.
 
 ## Teleport

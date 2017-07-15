@@ -3,7 +3,7 @@ title: Mew - Magikarp
 permalink: /mew/magikarp.html
 ---
 
-# Magikarp Tab
+# Magikarp
 This tab contains the settings related to FSH Scrips farm.
 	
 ## Reset Hour

@@ -3,7 +3,7 @@ title: Mew - Unown B
 permalink: /mew/unown-b.html
 ---
 
-# Schedule Tab
+# Schedule
 This tab contains the settings related to Unspoiled items.
 
 ## Schedule

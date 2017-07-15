@@ -3,7 +3,7 @@ title: Mew - General
 permalink: /mew/general.html
 ---
 
-# General Tab
+# General
 This tab contains all the miscellaneous settings.
 		
 ## Mew Key

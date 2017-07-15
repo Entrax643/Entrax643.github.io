@@ -3,7 +3,7 @@ title: Mew - Magikarp
 permalink: /mew/ditto.html
 ---
 
-# Ditto Tab
+# Ditto
 This tab contains the settings related to BGS/RGS items gathered from regular nodes.
 Important, you can only have 1 non Zhloe item enable as it'll always gather it.
 
