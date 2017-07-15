@@ -11,7 +11,7 @@ You can search any fish by its Name, Zone or Category.
 		
 ## Fish Grid
 ### Folklore
-Yes if the folklore book is required,No if not
+Yes if the folklore book is required, No if not
 			
 ### Bait
 List all the baits Mew can use for a specific fish, if it's marked with * it'll be bought automatically

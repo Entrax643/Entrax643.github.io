@@ -35,7 +35,7 @@ It's the specific rotation when you are gathering non collectable item :
 **Quality:** +30% Quality / +5% or 15% Yield rate.<br>
 **YieldAndQuality:** +2 Yield items / +10% Quality rate / +5% Yield rate.<br>
 
-Important, you need to have Disable Rotation Override setting disable to use it.
+Important, you need to have 'Don't use GP' setting disable to use it.
 					
 ## Cordial Type
 Set what type of cordial you want to use. Auto will can use all cordial depending on what you have and how many GP are missing.

@@ -31,10 +31,10 @@ If Enable, it'll sell all useless fish.
 If Enable, it'll release all useless fish and should only keep the one you're looking for.
 
 ## Moogle Spirit Farm
-If Enable, it'll fish Moogle Spirit instead of Perch.
+If Enable, it'll fish Moogle Spirit instead of Perch (Giant Crane Fly required).
 
 ## Vampiric Tapestry Farm
-If Enable, it'll fish Vampiric Tapestry instead of Perch.
+If Enable, it'll fish Vampiric Tapestry instead of Perch (Giant Crane Fly required).
 
 ## Enable Magikarp
 Enable/Disable the use of Magikarp mode.

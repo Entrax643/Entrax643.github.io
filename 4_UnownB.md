@@ -22,14 +22,15 @@ If Enable, it'll wait for the node after teleporting
  * Instead of "Teleport -> Move to the hotspot -> Wait untill spawn -> Search & Go for it" .
  * It'll now "Teleport -> Wait untill spawn -> Move to the hotspot -> Search & Go for it".
 	
+## Enable Amounts :
+If Enable it'll stop gather once the amounts set are reached.
+
 ## Away while resting
 If Enable, it'll use /away during resting time and remove it at the end. Important if you stop and start it while your character is away the "away" icon will be disable and re enable when the rest time is done.
 	
 ## Teleport Delay
-
 ### Before
 You can set the time (Eorzean minutes) you want it to teleport before an unspoiled node.
-		
 
 ### After
 You can set the time (Seconds) you want it to wait before teleport after an unspoiled node.

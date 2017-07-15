@@ -23,20 +23,20 @@ Enable/Disable the use of Gardenning feature.
 If Enable, it'll water each time it's using your Garden.
 	
 ### Garden Location
-Set here you Garden Location.
+Set here your Garden Location.
 	
 ### Set Button
-Easier way to set you Garden Location, move your character to your Garden and clicking on this button will set your Location as Garden Location.
+Easy way to set your Garden Location, move your character to your Garden and clicking on this button will set your Location as Garden Location.
 	
 ## Retainer
 ### Enable Retainer
 Enable/Disable the use of Retainer feature.
 	
 ### Bell Location
-Set here you Bell Location.
+Set here your Bell Location.
 	
 ### Set Button
-Easier way to set you Bell Location, move your character to your Bell and clicking on this button will set your Location as Bell Location.
+Easy way to set your Bell Location, move your character to your Bell and clicking on this button will set your Location as Bell Location.
 	
 ## Chocobo
 ### Enable Chocobo
@@ -48,23 +48,23 @@ If Enable, it'll try to clean your Stable first.
 ### Chocobo to Feed
 Set wich Chocobo(s) you want to feed.
 
-If set to "*Me*" it'll only fedd yours.
+If set to "*Me*" it'll only feed yours.
 
 If set to "*All*" it'll feed all the Chocobos in the Stable.
 
-If set to "*Firstname Lastname*" it'll feeed your chocob and the "*Firstname Lastname*"'s Chocobo.
+If set to "*Firstname Lastname*" it'll feeed your chocobo and "*Firstname Lastname*"'s Chocobo.
 	
 ### Food List
 Set which food you want to use while feeding chocobo(s).
 	
 ### Stable Location
-Set here you Stable Location.
+Set here your Stable Location.
 	
 ### Set Button
-Easier way to set you Stable location, move your character to your Stable and clicking on this button will set your location as Stable location.
+Easy way to set your Stable location, move your character to your Stable and clicking on this button will set your location as Stable location.
 		
 #Enable Chansey
 Enable/Disable the use of Chansey mode.
 	
 #Chansey Shop
-Use this button to Chansey the Shop tab's settings.
+Use this button to reset the Chansey tab's settings.
