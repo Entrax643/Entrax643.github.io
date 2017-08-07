@@ -16,11 +16,13 @@ All items are available during a 3 (ARR) or 2 Hours(HW/SB) window but can be gat
 
 ## Wait at the Aetheryte and not at the hotspot
 If Enable, it'll wait for the node after teleporting
+
 Instead of
  * Teleport
  * Move to the hotspot
  * Wait untill spawn
  * Search & Go for it
+ 
 It'll now
  * Teleport
  * Wait untill spawn
