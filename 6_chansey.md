@@ -47,9 +47,9 @@ If Enable, it'll try to clean your Stable first.
 
 ### Chocobo to Feed
 Set wich Chocobo(s) you want to feed :
-* If set to "*Me*" it'll only feed yours.
-* If set to "*All*" it'll feed all the Chocobos in the Stable.
-* If set to "*Firstname Lastname*" it'll feeed your chocobo and "*Firstname Lastname*"'s Chocobo.
+* "*Me*" will only feed yours.
+* "*All*" will feed all the Chocobos in the Stable.
+* "*Firstname Lastname*" will feeed your chocobo and "*Firstname Lastname*"'s Chocobo.
 
 ### Food List
 Set which food you want to use while feeding chocobo(s).

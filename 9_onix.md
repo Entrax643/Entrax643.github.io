@@ -16,12 +16,12 @@ If set to "None", it'll then use other modes with lower priority.
 Select the item you want to gather. This setting is only effective with HW area :
 
 | Level | Sand | Items |
-|--------------|--------------------|----------------------------------------------------------------------------|
-| 56           | Duskborne.         | Highland Oregano, Granular Clay, Fire Moraine, Lightning Moraine           |
-| 58           | Dawnborne.         | Furymint, Peat Moss, Bright Fire Moraine, Bright Lightning Moraine         |
-| 60           | Leafborne.         | Clary Sage, Black Soil                                                     |
-| 60           | Landborne.         | Radiant Fire Moraine, Radiant Lightning Moraine                            |
-| 1 Star       | LightKissed.       | Lover's Laurel, Radiant Astral Moraine                                     |
+|--------------|-------------------|----------------------------------------------------------------------------|
+| 56           | Duskborne         | Highland Oregano, Granular Clay, Fire Moraine, Lightning Moraine           |
+| 58           | Dawnborne         | Furymint, Peat Moss, Bright Fire Moraine, Bright Lightning Moraine         |
+| 60           | Leafborne         | Clary Sage, Black Soil                                                     |
+| 60           | Landborne         | Radiant Fire Moraine, Radiant Lightning Moraine                            |
+| 1 Star       | LightKissed       | Lover's Laurel, Radiant Astral Moraine                                     |
 
 ### Rate
 Select the collectability rotation you want to use. 
@@ -38,7 +38,7 @@ There is a tooltip to show you at what rate each items will be gathered :
 | 600      | 2 Items     | 5-8/8 | 1-4 NQ/HQ Sand or Crystal & Cluster                                             |
 
 ## Regular Items
-If one of the options below are enable, it'll gather as regular item instead of collectable.
+If one of the options below are enable, it'll the item gather as regular instead of collectable.
  * Gather Highland Oregano
  * Gather Furrymint
  * Gather Clary Sage
