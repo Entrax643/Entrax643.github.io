@@ -14,36 +14,26 @@ If set to "None", it'll then use other modes with lower priority.
 
 ### Items
 Select the item you want to gather. This setting is only effective with HW area :
- * Lvl 56 : Duskborne Sand
- ** Highland Oregano
- ** Granular Clay
- ** Fire Moraine
- ** Lightning Moraine
- * Lvl 58 : Dawnborne Sand
- ** Furymint
- ** Peat Moss
- ** Bright Fire Moraine
- ** Bright Lightning Moraine
- * Lvl 60 : Leafborne Sand
- ** Clary Sage
- ** Black Soil
- * Lvl 60 : Landborne Sand
- ** Radiant Fire Moraine
- ** Radiant Lightning Moraine
- * 1 Star : LightKissed Sand
- ** Lover's Laurel
- ** Radiant Astral Moraine
+| Level | Sand | Items |
+|--------------|--------------------|----------------------------------------------------------------------------|
+| 56           | Duskborne.         | Highland Oregano, Granular Clay, Fire Moraine, Lightning Moraine
+| 58           | Dawnborne.         | Furymint, Peat Moss, Bright Fire Moraine, Bright Lightning Moraine
+| 60           | Leafborne.         | Clary Sage, Black Soil
+| 60           | Landborne.         | Radiant Fire Moraine, Radiant Lightning Moraine
+| 1 Star       | LightKissed.       | Lover's Laurel, Radiant Astral Moraine
 
 ### Rate
 Select the collectability rotation you want to use. 
 You need to have a rate at 5/8 minimum to be able to get a sand from an item.
 There is a tooltip to show you at what rate each items will be gathered :
- * 346 : 4 Item |3/8 | Crystal & Cluster
- * 402 : 3 Items | 4/8 | Crystal & Cluster
- * 460 : 2 Items | 5/8 | 1-2 NQ Sand or Crystal & Cluster
- * 499 : 3 Items | 6/8 | 1-4 NQ Sand or Crystal & Cluster
- * 550 : 3 Items | 8/8 | 1-4 NQ/HQ Sand or Crystal & Cluster
- * 600 : 3 Items | 5-8/8 | 1-4 NQ/HQ Sand or Crystal & Cluster
+| Rotation | Items Yield | Rate  | Result |
+|----------|-------------|-------|---------------------------------------------------------------------------------|
+| 346      | 4 Items     | 3/8   | Crystal & Cluster
+| 402      | 3 Items     | 4/8   | Crystal & Cluster
+| 460      | 2 Items     | 5/8   | 1-2 NQ Sand or Crystal & Cluster
+| 499      | 2 Items     | 6/8   | 1-4 NQ Sand or Crystal & Cluster
+| 550      | 1-2 Items   | 8/8   | 1-4 NQ/HQ Sand or Crystal & Cluster
+| 600      | 2 Items     | 5-8/8 | 1-4 NQ/HQ Sand or Crystal & Cluster
 
 ## Regular Items
 If one of the options below are enable, it'll gather as regular item instead of collectable.
