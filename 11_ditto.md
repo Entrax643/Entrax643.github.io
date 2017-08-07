@@ -22,7 +22,7 @@ Enable the item you want Mew to gather.
 Set wich item you want Mew to gather when you don't have 600 GP.
 
 ## Quantity
-Set the amount of Zhloe's item you want to have.
+Set the amount of Zhloe's item you want to gather.
 
 ## Items Settings
 ### Cordial Type
