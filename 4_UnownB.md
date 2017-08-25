@@ -12,7 +12,7 @@ If set to "None", it'll then use other mode with lower priority.
 If set to "Rest", it'll litterally do nothing and just wait during a specific hour.
 
 **Having multiple items in a row may cause GP issues and Mew could then skip some of them.** 
-All items are available during a 3 (ARR) or 2 Hours(HW/SB) window but can be gathered only once so don't set the same item more than once or you'll just waste an hour.
+All items are available during a 3 (ARR) or 2 (HW/SB) Hours window but can be gathered only once so don't set the same item more than once or you'll just waste an hour.
 
 ## Wait at the Aetheryte and not at the hotspot
 If Enable, it'll wait for the node after teleporting
