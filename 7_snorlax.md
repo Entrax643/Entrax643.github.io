@@ -31,8 +31,8 @@ If Enable, it'll not use any GP when gathering.
 ## Spiritbond
 If Enable, it'll
 - Buy all 6 pieces (left side) 290iLvl from Rhalgr's Reach NPC
-- Equip them to do what you want to do with Snorlax (it'll not equip them on ARR nodes)
-- Stop when 100% SB (or regular stop like Onix/Psyduck/Unown-Unspoiled)
+- Equip them for lvl 70 nodes.
+- Stop and Convert them when 100% SB (or regular stop like Onix/Psyduck/Unown-Unspoiled)
 
 ## Gather Increase
 It's the specific rotation when you are gathering non collectable item :

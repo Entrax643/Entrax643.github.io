@@ -7,16 +7,22 @@ permalink: /mew/shop.html
 This tab contains the settings related to scrips usage.
 
 ## Red Scrips search field :
-You can search any item by its Name or Cost.
+You can search any item by its Name, Cost or Category.
 
 ## Red Scrips grid :
 Set the amount of red scrips items you want to have. Important, it'll buy them untill you have the set amount in your inventory.
 
 ## Yellow Scrips search field :
-You can search any item by its Name or Cost.
+You can search any item by its Name, Cost or Category.
 
 ## Yellow Scrips grid :
 Set the amount of yellow scrips items you want to have. Important, it'll buy them untill you have the set amount in your inventory.
+
+## Turn In :
+You can set where you want to turn in collectables items. Auto will choose Rhalgr's Reach, Idyllshire or Mor Dhona depending on where you have access.
+
+## Lvl 58 Shop :
+You can set where you want to buy lvl 58 red scrips items. Auto will choose Rhalgr's Idyllshire or Mor Dhona depending on where you have access.
 
 ## Enable Turn In :
 If enable it'll try to turn in your collectable items for scrips based on Minimum Free Slot setting.

@@ -23,8 +23,8 @@ Select wich fish Magikarp should go to.
 "Auto" will select a fish based on your level :
  * 60-64 : Velodyna Grass Carp
  * 64-66 : Yanxian Koi
- * 66-67 : Tao Bitterling
- * 67-70+ : Daio Squid
+ * 66-68 : Tao Bitterling
+ * 68-70+ : Daio Squid
 
 ## Release Useless Fish
 If Enable, it'll release all useless fish and should only keep the one you're looking for.

@@ -29,11 +29,17 @@ It'll now
  * Move to the hotspot
  * Search & Go for it
 
-## Enable Amounts :
-If Enable it'll stop gather once the amounts set are reached.
+## Spiritbond :
+If Enable, it'll
+- Buy all 6 pieces (left side) 290iLvl from Rhalgr's Reach NPC
+- Equip them for lvl 70 nodes (Ala Mhigan Salt Crystal, Othardian Plum, Jhammel Ginger, Raw Imperial Jade, Hallowed Basil, Raw) and 1 Star nodes (Rhea, Palladium Ore, Torreya Log, Chromite).
+- Convert them when 100% SB
 
 ## Away while resting
 If Enable, it'll use /away during resting time and remove it at the end. Important if you stop and start it while your character is away the "away" icon will be disable and re enable when the rest time is done.
+
+## Enable Amounts :
+If Enable it'll stop gather once the amounts set are reached.
 
 ## Teleport Delay
 ### Before

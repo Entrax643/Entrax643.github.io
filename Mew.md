@@ -18,7 +18,7 @@ Mew is a plugin that allow you to set you gathering journey. There is a tab for 
 - [Snorlax](/mew/snorlax.html) : Regular/Normal nodes farm.
 - [Slowpoke](/mew/slowpoke.html) : Fish that don't require Weather and/or Time conditions.
 - [Onix](/mew/onix.html) : Ephemeral nodes.
-- [Magikarp](/mew/magikarp.html) : FSH red/yellow scrips farm from 24/7 fish. 
+- [Magikarp](/mew/magikarp.html) : FSH red scrips farm from 24/7 fish. 
 - [Ditto](/mew/ditto.html) : BTN/MIN red/yellow scrips items gathered from 24/7 nodes.
 
 About the logic behind, the highest (in the list) mode is the one with the most priority.

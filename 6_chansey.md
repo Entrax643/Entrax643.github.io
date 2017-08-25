@@ -8,7 +8,7 @@ This tab contains the settings related to housing management.
 
 ## Teleport
 ### Chansey Hour
-Set when you want Mew to teleport to your house to manage Garden/Retainer/Chocobo (5 = If ET is between 5-6AM).
+Set when you want Mew to teleport to your house to manage Garden/Retainer/Chocobo (5 AM = If ET is between 5-6AM).
 
 Important, make sure to not have any unspoiled right before otherwise the unspoiled may take the priority.
 
