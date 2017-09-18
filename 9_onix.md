@@ -78,7 +78,7 @@ If enable, it'll teleport to your waiting location to reduce all ephemeral items
 
 ## Cordial Settings
 ### Cordial Type
-Set what type of cordial you want to use. Auto will can use all cordial depending on what you have and how many GP are missing.
+Set what type of cordial you want to use. Auto will use all cordial depending on what you have and how many GP are missing.
 
 ### Cordial Time
 Set what logic you want to use for Cordial usage.

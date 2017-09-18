@@ -29,7 +29,7 @@ Refresh the Currently Selected list.
 If Enable, it'll release all useless fish and should only keep the one you're looking for.
 
 ## Cordial Type
-Set what type of cordial you want to use. Auto will can use all cordial depending on what you have and how many GP are miussing.
+Set what type of cordial you want to use. Auto will use all cordial depending on what you have and how many GP are miussing.
 
 ## Patience / GP
 Set wich Patience you want to use and the minimum amount of GP you want to have before using it. It'll not use patience on every fish but only when the fish need it.
