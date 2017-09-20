@@ -78,4 +78,4 @@ Enable/Disable the use of Chansey mode.
 ## Reset Chansey
 Use this button to reset the Chansey tab's settings.
 
-[Return](/mew/mew.html)
+[Return](/mew.html)

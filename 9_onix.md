@@ -89,4 +89,4 @@ Enable/Disable the use of Onix mode.
 ## Reset Onix
 Use this button to reset the Onix tab's settings.
 
-[Return](/mew/mew.html)
+[Return](/mew.html)

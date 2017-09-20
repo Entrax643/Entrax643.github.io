@@ -55,4 +55,4 @@ Enable/Disable the use of Snorlax mode.
 ## Reset Snorlax
 Use this button to reset the Snorlax tab's settings.
 
-[Return](/mew/mew.html)
+[Return](/mew.html)

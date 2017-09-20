@@ -71,4 +71,4 @@ Use this button to reset all Mew's settings but the ones in the General Tab.
 ### Reset General :
 Use this button to reset the General tab's settings.
 
-[Return](/mew/mew.html)
+[Return](/mew.html)

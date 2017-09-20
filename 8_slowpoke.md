@@ -58,4 +58,4 @@ Enable/Disable the use of Slowpoke mode.
 ## Reset Slowpoke
 Use this button to reset the Slowpoke tab's settings.
 
-[Return](/mew/mew.html)
+[Return](/mew.html)

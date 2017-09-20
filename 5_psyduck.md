@@ -52,4 +52,4 @@ Enable/Disable the use of Psyduck mode.
 ## Reset Psyduck
 Use this button to reset the Psyduck tab's settings.
 
-[Return](/mew/mew.html)
+[Return](/mew.html)

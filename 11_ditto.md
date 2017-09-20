@@ -43,4 +43,4 @@ Enable/Disable the use of Ditto mode.
 ## Reset Ditto
 Use this button to reset the Ditto tab's settings.
 
-[Return](/mew/mew.html)
+[Return](/mew.html)
