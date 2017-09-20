@@ -14,8 +14,8 @@ If set to "Rest", it'll litterally do nothing and just wait during a specific ho
 **Having multiple items in a row may cause GP issues and Mew could then skip some of them.** 
 All items are available during a 3 (ARR) or 2 (HW/SB) Hours window but can be gathered only once so don't set the same item more than once or you'll just waste an hour.
 
-## Wait at the Aetheryte and not at the hotspot
-If Enable, it'll wait for the node after teleporting
+## Wait at the Aetheryte
+If Enable, it'll wait for the node after teleporting as follow
 
 Instead of
  * Teleport
@@ -33,7 +33,7 @@ It'll now
 If Enable, it'll
 - Buy all 6 pieces (left side) 290iLvl from Rhalgr's Reach NPC
 - Equip them for lvl 70 nodes (Ala Mhigan Salt Crystal, Othardian Plum, Jhammel Ginger, Raw Imperial Jade, Hallowed Basil, Raw) and 1 Star nodes (Rhea, Palladium Ore, Torreya Log, Chromite).
-- Convert them when 100% SB
+- Convert them when they are all at 100% SB
 
 ## Away while resting
 If Enable, it'll use /away during resting time and remove it at the end. Important if you stop and start it while your character is away the "away" icon will be disable and re enable when the rest time is done.

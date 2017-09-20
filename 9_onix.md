@@ -68,6 +68,9 @@ If one of the options below are enable, it'll the item gather as regular instead
  * Gather Perlite
  * Gather Almandine
  * Gather Windtea Leaves
+ 
+## Cordial Type
+Set what type of cordial you want to use. Auto will use all cordial depending on what you have and how many GP are missing.
 
 ## Settings
 ### Act as a timed mode
@@ -77,9 +80,6 @@ If enable, it'll take the priority over Snorlax and Slowpoke. It's mostly when y
 If enable, it'll teleport to your waiting location to reduce all ephemeral items.
 
 ## Cordial Settings
-### Cordial Type
-Set what type of cordial you want to use. Auto will use all cordial depending on what you have and how many GP are missing.
-
 ### Cordial Time
 Set what logic you want to use for Cordial usage.
 

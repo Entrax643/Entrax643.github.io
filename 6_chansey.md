@@ -6,13 +6,25 @@ permalink: /mew/chansey.html
 # Chansey
 This tab contains the settings related to housing management.
 
-## Teleport
+## Settings
 ### Chansey Hour
 Set when you want Mew to teleport to your house to manage Garden/Retainer/Chocobo (5 AM = If ET is between 5-6AM).
-
 Important, make sure to not have any unspoiled right before otherwise the unspoiled may take the priority.
 
-### Aetheryte list
+### New House
+Set the new house's name.
+
+### Add New
+It'll create a new house named after what's set in "New House".
+
+### House Selection
+Select the House you want to show/edit the settings of.
+
+### Delete Current
+It'll delete the currently selected House.
+
+## Teleport
+### Aetheryte
 Set here is the house you want to manage.
 
 ## Gardenning
@@ -51,7 +63,7 @@ Set wich Chocobo(s) you want to feed :
 * "*All*" will feed all the Chocobos in the Stable.
 * "*Firstname Lastname*" will feeed your chocobo and "*Firstname Lastname*"'s Chocobo.
 
-### Food List
+### Food
 Set which food you want to use while feeding chocobo(s).
 
 ### Stable Location
@@ -63,5 +75,5 @@ Easy way to set your Stable location, move your character to your Stable and cli
 ## Enable Chansey
 Enable/Disable the use of Chansey mode.
 
-## Chansey Shop
+## Reset Chansey
 Use this button to reset the Chansey tab's settings.

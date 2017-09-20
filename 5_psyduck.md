@@ -19,6 +19,12 @@ List all the baits Mew can use for a specific fish, if it's marked with * it'll 
 ### Enable
 Enable the fish you want Mew to look for. Important, it'll not stop trying to fish for a fish untill you disable it.
 
+## Enable All
+It'll enable all the fish.
+
+## 1 For All
+It'll set each fish's quantity to 1.
+
 ## Currently Selected list
 It's all the fish enable.
 

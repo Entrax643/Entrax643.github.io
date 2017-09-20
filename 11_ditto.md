@@ -25,10 +25,10 @@ Set wich item you want Mew to gather when you don't have 600 GP.
 Set the amount of Zhloe's item you want to gather.
 
 ## Items Settings
-### Cordial Type
-Set what type of cordial you want to use. Auto will use all cordial depending on what you have and how many GP are miussing.
-
-### Cordial Time
+### Cordial 
+####Type
+Set what type of cordial you want to use. Auto will use all cordial depending on what you have and how many GP are missing.
+####Time
 Set what logic you want to use for Cordial usage.
 
 ### Lvl 70 rate
