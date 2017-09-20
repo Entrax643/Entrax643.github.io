@@ -55,3 +55,5 @@ Set the amount of Revenant's Toll items you want to have. Important, if there is
 
 ## Reset Schedule
 Use this button to reset the Schedule tab's settings.
+
+[Return](/mew/mew.html)

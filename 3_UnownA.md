@@ -26,3 +26,5 @@ Use this button to reset the Unown tab's settings.
 
 ## Enable Unown
 Enable/Disable the use of Unown mode.
+
+[Return](/mew/mew.html)

@@ -40,3 +40,5 @@ Enable/Disable the use of Magikarp mode.
 
 ## Reset Magikarp
 Use this button to reset the Magikarp tab's settings.
+
+[Return](/mew/mew.html)

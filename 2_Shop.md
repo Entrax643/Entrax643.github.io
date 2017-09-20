@@ -32,3 +32,5 @@ If enable it'll try to turn in your collectable items for scrips based on Minimu
 
 ## Reset Shop :
 Use this button to reset the Shop tab's settings.
+
+[Return](/mew/mew.html)
