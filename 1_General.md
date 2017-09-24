@@ -18,6 +18,9 @@ Where do you want it to wait.
 ### Use Aetheryte to go out :
 Enable/Disable the use of Idyllshire/Rhalgr's Reach Aetheryte to go in the Hinterlands/The Fringes/The Peaks, if disable it'll move to the exit by its own.
 
+### Use House of the Fierce Aetheryte :
+Enable/Disable the use of The House of the Fierce aetheryte (it'll use Namai if disable).
+
 ### Use House Codechunk:
 Enable/Disable the use of custom teleport codechunck, usefull if you have a private house and an apartment/friend's house in the same zone.
 To get the three parameters (Zone ID, Aetheryte Id and Index) you need to run this code below using RebornConsole (in your plugins list) : 
